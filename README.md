@@ -11,4 +11,4 @@ a lot of buses and maps, textures and many tutorials - FOR FREE!"<br>
 <br>
 The first name of the game was "Solar15"<br>
 <br>
-<a href="https://github.com/Anonim17PL/VirtualBus/releases/tag/all">Download</a>
+<a href="https://github.com/Anonim17PL/VirtualBus/releases/tag/all">Download from Github</a>
