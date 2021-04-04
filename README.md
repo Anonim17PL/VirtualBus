@@ -1,3 +1,8 @@
+<head>
+  <meta name="google-site-verification" content="Seuwi3IILAp7bkO3joqQZFGjmX3_5m0qGsAyyMTAvPE" />
+</head>
+  
+<body>
 # VirtualBus
 A big database of versions of the Polish Bus simulator (VirtualBus)<br>
 <br>
@@ -12,3 +17,4 @@ a lot of buses and maps, textures and many tutorials - FOR FREE!"<br>
 The first name of the game was "Solar15"<br>
 <br>
 <a href="https://github.com/Anonim17PL/VirtualBus/releases/tag/all">Download from Github</a>
+</body>
