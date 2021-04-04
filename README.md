@@ -1,4 +1,5 @@
 # VirtualBus
+<html>
 <head>
   <meta name="google-site-verification" content="Seuwi3IILAp7bkO3joqQZFGjmX3_5m0qGsAyyMTAvPE" />
 
@@ -18,3 +19,4 @@ The first name of the game was "Solar15"<br>
 <a href="https://github.com/Anonim17PL/VirtualBus/releases/tag/all">Download from Github</a>
 </body>
 </head>
+</html>
